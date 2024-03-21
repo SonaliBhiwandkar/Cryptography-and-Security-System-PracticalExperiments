@@ -4,6 +4,7 @@ Cryptography and Security System-Practical(Experiments)
 
 ## Exp 01 : Design and Implementation of a product cipher using Substitution and Transposition ciphers.           
 ## Exp 02 : Implementation and analysis of RSA cryptosystem and Digital signature scheme using RSA.  
+## Exp 03: Implementation of Diffie Hellman Key exchange algorithm.
 ## Exp 05 : Exploring wireless security tools like Kismet, NetStumbler etc.   
 ## Exp 06 : Study the use of network reconnaissance tools like WHOIS, dig, traceroute, nslookup to gather information about networks and domain registrars.  
 ## Exp 07 : Study of packet sniffer tools wireshark :-
